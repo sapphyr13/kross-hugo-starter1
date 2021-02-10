@@ -60,6 +60,10 @@ service:
   enable: true
   title: Services
   item:
+  - title: Community Management
+    icon: ''
+    content: ''
+    highlighted: ''
   - title: Création de logo
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -67,8 +71,7 @@ service:
     highlighted: false
   - title: UX Design
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: 'Conception d''interface '
     highlighted: true
   - title: Création de contenu
     icon: ti-book
