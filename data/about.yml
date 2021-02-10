@@ -1,7 +1,7 @@
 ---
 work_process:
   enable: true
-  title: Work Process
+  title: My Work
   item:
   - title: Design
     icon: images/icons/print.png
