@@ -28,7 +28,7 @@ phone = "06.18.01.38.13"
 theme_color = "#649985"
 [params.contact]
 enable = true
-form_action = "#"
+form_action = "https://getform.io/f/f0e99b73-3e1c-4516-a79a-7b7481bcfabb"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
