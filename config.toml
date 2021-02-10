@@ -23,7 +23,7 @@ description = "This is meta description"
 email = "melissalejeune4@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/logo.png"
+logo = "https://nsa40.casimages.com/img/2021/02/10/mini_210210044127204078.png"
 phone = "06.18.01.38.13"
 theme_color = "#41228e"
 [params.contact]
