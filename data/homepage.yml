@@ -60,11 +60,11 @@ service:
   enable: true
   title: Services
   item:
-  - title: Création de logo et d'identité visuelle
+  - title: Création d'identité visuelle
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
-    highlighted: false
+    highlighted: true
   - title: UX Design
     icon: ti-vector
     content: 'Conception d''interface '
