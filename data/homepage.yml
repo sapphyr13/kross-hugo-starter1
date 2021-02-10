@@ -60,7 +60,7 @@ service:
   enable: true
   title: Services
   item:
-  - title: Création de logo
+  - title: Création de logo et d'identité visuelle
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
