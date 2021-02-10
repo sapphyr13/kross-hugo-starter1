@@ -60,10 +60,6 @@ service:
   enable: true
   title: Services
   item:
-  - title: Community Management
-    icon: ''
-    content: ''
-    highlighted: ''
   - title: Création de logo
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
