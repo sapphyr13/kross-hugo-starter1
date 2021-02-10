@@ -20,7 +20,7 @@ skill:
     progress: 90%
     color: "#62FAE0"
   - title: Web Design
-    progress: 90%
+    progress: 50%
     color: "#fdb157"
   - title: Logo Design
     progress: 60%
