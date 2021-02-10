@@ -60,7 +60,7 @@ service:
   enable: true
   title: Services
   item:
-  - title: UI Design
+  - title: Création de logo
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
