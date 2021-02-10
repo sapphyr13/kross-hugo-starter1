@@ -25,7 +25,7 @@ google_analitycs_id = "Your ID"
 home = "Home"
 logo = "https://nsa40.casimages.com/img/2021/02/10/mini_21021004445463522.png"
 phone = "06.18.01.38.13"
-theme_color = "#649985"
+theme_color = "#ACE5D0"
 [params.contact]
 enable = true
 form_action = "https://getform.io/f/f0e99b73-3e1c-4516-a79a-7b7481bcfabb"
