@@ -60,14 +60,14 @@ service:
   enable: true
   title: Services
   item:
+  - title: UX Design
+    icon: ti-vector
+    content: 'Conception d''interface '
+    highlighted: false
   - title: Création d'identité visuelle
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
-    highlighted: true
-  - title: UX Design
-    icon: ti-vector
-    content: 'Conception d''interface '
     highlighted: true
   - title: Création de contenu
     icon: ti-book
